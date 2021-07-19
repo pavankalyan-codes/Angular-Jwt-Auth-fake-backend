@@ -1,0 +1,15 @@
+.posts {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.mynavbar {
+  box-sizing: border-box;
+  justify-content: space-between;
+}
+nav {
+  padding: 10px 30px 10px 20px !important;
+}

@@ -1,0 +1,13 @@
+.form-wrapper {
+  height: 100%;
+  display: flex;
+}
+
+form {
+  width: 400px;
+  margin: auto;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
